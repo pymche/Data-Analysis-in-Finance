@@ -1,4 +1,4 @@
-# Finance Data Analysis
+# Data Analysis in Finance
 
 Data analysis of implied and realized volatility of two products using a dataset with daily returns and 20 day implied volatility of the two products.
 
